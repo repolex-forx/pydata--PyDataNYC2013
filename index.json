@@ -1,0 +1,11 @@
+{
+  "org": "pydata",
+  "repo": "PyDataNYC2013",
+  "versions": [
+    {
+      "commit": "a259dd4579c508779d500cc9fa68092dd06085cc",
+      "tag": "",
+      "parsed_at": "2026-10-21T20:39:13.314652+00:00"
+    }
+  ]
+}
