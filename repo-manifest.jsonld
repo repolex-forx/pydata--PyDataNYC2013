@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/pydata/PyDataNYC2013/commit/a259dd4579c508779d500cc9fa68092dd06085cc",
       "git:hexsha": "a259dd4579c508779d500cc9fa68092dd06085cc",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
