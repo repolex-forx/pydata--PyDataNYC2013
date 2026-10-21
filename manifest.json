@@ -1,0 +1,18 @@
+{
+  "manifest_version": "1.0",
+  "org": "pydata",
+  "repo": "PyDataNYC2013",
+  "versions": [
+    {
+      "commit": "a259dd4579c508779d500cc9fa68092dd06085cc",
+      "parsed_at": "2026-10-21T20:36:56.803323+00:00",
+      "filetree": "filetree/a259dd4579c508779d500cc9fa68092dd06085cc.nq.gz",
+      "blobs": [
+        "blob/9805791d8f1519d5e80440b78d76c5f8d20305f2.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
